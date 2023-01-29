@@ -1,0 +1,49 @@
+:root {
+    /* fonts */
+    --font-bold: 'Ruberoid-Bold', sans-serif;
+    --font-extrabold: 'Ruberoid-ExtraBold', sans-serif;
+    --font-semibold: 'Ruberoid-SemiBold', sans-serif;
+    --font-regular: 'Ruberoid-Regular', sans-serif;
+    --font-medium: 'Ruberoid-Medium', sans-serif;
+    /* fonts */
+}
+/* Bold */
+@font-face {
+    font-family: 'Ruberoid-Bold';
+    src:
+        url('./fonts/Ruberoid-Bold.ttf') format("truetype"),
+        url('./fonts/Ruberoid-Bold.woff') format("woff");
+}
+/* Bold */
+/* ExtraBold */
+@font-face {
+    font-family: 'Ruberoid-ExtraBold';
+    src:
+        url('./fonts/Ruberoid-ExtraBold.ttf') format("truetype"),
+        url('./fonts/Ruberoid-ExtraBold.woff') format("woff");
+}
+/* ExtraBold */
+/* Medium */
+@font-face {
+    font-family: 'Ruberoid-Medium';
+    src:
+        url('./fonts/Ruberoid-Medium.ttf') format("truetype"),
+        url('./fonts/Ruberoid-Medium.woff') format("woff");
+}
+/* Medium */
+/* Regular */
+@font-face {
+    font-family: 'Ruberoid-Regular';
+    src:
+        url('./fonts/Ruberoid-Regular.ttf') format("truetype"),
+        url('./fonts/Ruberoid-Regular.woff') format("woff");
+}
+/* Regular */
+/* SemiBold */
+@font-face {
+    font-family: 'Ruberoid-SemiBold';
+    src:
+        url('./fonts/Ruberoid-SemiBold.ttf') format("truetype"),
+        url('./fonts/Ruberoid-SemiBold.woff') format("woff");
+}
+/* SemiBold */
